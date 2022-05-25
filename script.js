@@ -17,4 +17,4 @@ window.addEventListener('scroll',function(){
     rua.style.top = value * 0.15 + 'px';
     text.style.top = value * 0.6 + 'px';
 })
-/*Efeito Parallax*/
+/*Efeito Parallax*/ 
